@@ -1,0 +1,33 @@
+{
+  "name": "spfx-utils",
+  "version": "0.1.0",
+  "description": "A package that provides a set of helpful utilities to enhance the SPFx development experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "SPFX",
+    "Token",
+    "SharePoint"
+  ],
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariuS231/spfx-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DariuS231/spfx-utils/issues"
+  },
+  "homepage": "https://github.com/DariuS231/spfx-utils#readme",
+  "author": "Dario Alvarez <dario17231@gmail.com> (https://js231sp.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {}
+}
